@@ -1,0 +1,45 @@
+body{
+	margin: 0;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+}
+header{
+	background-color: #C54F28;
+	text-align: center;
+	padding: 0px;
+	
+}
+header h1{
+	color: aliceblue;
+	font-size: 50px;
+}
+h1,h2{
+	font-family: 'Press Start 2P', cursive;
+}
+main{
+	background-color: aquamarine;
+	max-width: 1024;
+	margin: 0 auto;
+	padding: 0 20px 20px 80px;
+	
+}
+footer{
+	background-color: #674B4B;
+	margin: 0;
+}
+header img{
+	border-radius: 170px;
+	width: 300px;
+	border: 20px solid white;
+}
+h2{
+	font-size: 30px;
+	color: #e70c19;
+}
+
+
+
+
+
+
+
+
